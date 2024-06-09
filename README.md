@@ -4,7 +4,7 @@
 - [A. Высокая нагрузка](#a-высокая-нагрузка)
 - [B. Зависимость](#b-зависимость)
 
-A. Высокая нагрузка
+[A. Высокая нагрузка](https://github.com/danula-ded/Test_SRE-week/blob/main/A/code.py)
 ===================
 <table>
     <tr>
@@ -67,7 +67,7 @@ A. Высокая нагрузка
 ```
 
 
-B. Зависимость
+[B. Зависимость](https://github.com/danula-ded/Test_SRE-week/blob/main/B/code.py)
 ==============
 <table>
     <tr>
